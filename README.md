@@ -130,4 +130,4 @@
     <p>&copy; 2025 The Fish Thief - Todos los derechos reservados</p>
   </footer>
 </body>
-</html>
+</html> 
