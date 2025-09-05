@@ -123,7 +123,7 @@
 
   <div class="qr">
     <h2>Escanea nuestro QR 📲</h2>
-    <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://tupagina.com" alt="Código QR">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://duvanandres1543-art.github.io/Buena-comida-con-sabor-/" alt="Código QR">
   </div>
 
   <footer>
